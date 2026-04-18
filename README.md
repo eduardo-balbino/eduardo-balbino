@@ -1,5 +1,10 @@
-## About Me
 
+###
+<div align="center">
+  <img height="263" src="https://i.pinimg.com/originals/4c/e5/9a/4ce59a67d60f0c954913d1b1642d1951.gif"  />
+</div>
+
+###
 **Bio:** Desenvolvedor Fullstack
 
 - Nome: Eduardo Balbino
