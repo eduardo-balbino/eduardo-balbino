@@ -1,16 +1,15 @@
-
 ###
 <div align="center">
   <img height="400" src="https://i.pinimg.com/1200x/86/3e/03/863e03edd1b1a914cea63dd1825b26f7.jpg"  />
 </div>
 
 ###
-**Bio:** Desenvolvedor Fullstack
+**Bio:** Fullstack Developer
 
-- Nome: Eduardo Balbino
-- GitHub desde: 2023-03-21
+- Name: Eduardo Balbino
+- GitHub since: 2023-03-21
 
-Atuo principalmente no desenvolvimento de aplicações web full‑stack com foco em mídia/áudio. Gosto de prototipar interfaces modernas, trabalhar no backend para APIs estáveis e iterar rapidamente até chegar a uma boa experiência para o usuário. Sempre aberto a colaborações, feedbacks e novas aprendizagens.
+I mainly work on full-stack web application development with a focus on media/audio. I enjoy prototyping modern interfaces, working on the backend to build stable APIs, and iterating quickly until achieving a great user experience. Always open to collaborations, feedback, and continuous learning.
 
 ## GitHub Stats
 
