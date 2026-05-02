@@ -13,5 +13,4 @@ I mainly work on full-stack web application development with a focus on media/au
 
 ## GitHub Stats
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-balbino&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-balbino&layout=compact&theme=radical)
