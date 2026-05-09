@@ -10,7 +10,3 @@
 - GitHub since: 2023-03-21
 
 I mainly work on full-stack web application development with a focus on media/audio. I enjoy prototyping modern interfaces, working on the backend to build stable APIs, and iterating quickly until achieving a great user experience. Always open to collaborations, feedback, and continuous learning.
-
-## GitHub Stats
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-balbino&layout=compact&theme=radical)
